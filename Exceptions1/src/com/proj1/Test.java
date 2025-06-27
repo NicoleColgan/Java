@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * @author Nicole Colgan 19345826
  *
  */
-public class Assignment1Test {
+public class Test {
 
 	public static void main(String[] args) {
 		Customer c1,c2,c3,c4;
