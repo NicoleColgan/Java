@@ -3,7 +3,7 @@ import com.sun.net.httpserver.Authenticator.Result;
 /**
  * Enum for different regions
  * Each enum has a name in a String format
- * @author nicole colgan 19345826
+ * @author nicole colgan
  *
  */
 public enum Region {

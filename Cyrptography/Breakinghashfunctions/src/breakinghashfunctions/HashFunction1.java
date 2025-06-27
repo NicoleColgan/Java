@@ -1,6 +1,6 @@
 package ngt2breakinghashfunctions;
 
-public class CT255_HashFunction1 {
+public class HashFunction1 {
 	public static void main(String[] args) {
 		long res = 0;
 		int max=10000000; //max value for random function
@@ -40,7 +40,7 @@ public class CT255_HashFunction1 {
 			}
 		}
 		else  // No <input>
-			System.out.println("Use: CT255_HashFunction1 <Input>");
+			System.out.println("Use: HashFunction1 <Input>");
 		
 		}
         

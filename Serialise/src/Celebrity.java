@@ -16,7 +16,7 @@ import java.util.Scanner;
 /**
  * a class that represents celebrity objects. 
  * This class is serializable but it handles its awards in a custom way
- * @author nicole colgan 19345826
+ * @author nicole colgan
  *
  */
 public class Celebrity implements Serializable{

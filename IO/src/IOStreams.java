@@ -8,7 +8,7 @@ import java.io.StringReader;
 import java.util.Scanner;
 /**
  * Class for reading and writing to and from files
- * @author nicole Colgan 19345826
+ * @author nicole Colgan
  *
  */
 public class IOStreams {
@@ -22,7 +22,7 @@ public class IOStreams {
 		Scanner lineReader = null;
 		
 		try {
-			in = new BufferedReader(new FileReader("ass3.csv")); //use bufferedReader to read lines 
+			in = new BufferedReader(new FileReader("proj.csv")); //use bufferedReader to read lines
 			
 			String line=null, landType, regionName;
 			double valueOfLand;

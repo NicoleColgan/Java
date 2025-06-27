@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 /**
  * class for award objects (Awards are not serializable)
- * @author nicole colgan 19345826
+ * @author nicole colgan
  *
  */
 public class Award {

@@ -1,4 +1,4 @@
-package com.nuig.cs.ct326.assignment1;
+package com.proj1;
 import java.math.RoundingMode;
 import java.time.LocalDate;
 
